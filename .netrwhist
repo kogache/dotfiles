@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/koga-mac/junkYard/dronemarket-www/app/views/www/service_operators'
+let g:netrw_dirhist_2='/Users/koga-mac/junkYard/dronemarket-www/app/models'
+let g:netrw_dirhist_3='/Users/koga-mac/junkYard/dronemarket-www/app/views/www'
+let g:netrw_dirhist_4='/Users/koga-mac/junkYard/dronemarket-www/spec'
+let g:netrw_dirhist_5='/Users/koga-mac/myMac/myMacEnvironment'
+let g:netrw_dirhist_6='/Users/koga-mac/junkYard/dronemarket-www/app/views/subscription_mailer'
+let g:netrw_dirhist_7='/Users/koga-mac/junkYard/dronemarket-www/.ebextensions'
+let g:netrw_dirhist_8='/Users/koga-mac/.rbenv'
